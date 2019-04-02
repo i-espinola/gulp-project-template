@@ -27,59 +27,27 @@
 
 #### Tree structure
 
-    BDR - teste/
-    ├── Currículo V - Ivan Espinola G.pdf
+    project.init/
     ├── gulpfile.babel.js
-    ├── Layout.png
     ├── LICENSE
     ├── package.json
     ├── package-lock.json
     ├── public
     │   ├── assets
-    │   │   ├── css
-    │   │   │   ├── grid.css
-    │   │   │   └── main.css
-    │   │   ├── img
-    │   │   │   ├── 1.png
-    │   │   │   ├── 2.png
-    │   │   │   ├── 3.png
-    │   │   │   ├── 4.png
-    │   │   │   ├── 5.png
-    │   │   │   ├── 6.png
-    │   │   │   ├── 7.png
-    │   │   │   ├── 8.png
-    │   │   │   ├── 9.png
-    │   │   │   ├── arrow.svg
-    │   │   │   ├── bg-acordion.png
-    │   │   │   ├── bg-top.png
-    │   │   │   ├── logo.png
-    │   │   │   └── overlay.png
     │   │   └── js
-    │   │       ├── jquery.min.js
-    │   │       └── main.js
+    │   │       └── main.min.js
     │   └── index.html
-    ├── README.MD
+    ├── README.md
     └── src
         ├── assets
-        │   ├── css
-        │   │   ├── grid.css
-        │   │   └── main.css
+        │   ├── fonts
+        │   ├── icon
         │   ├── img
-        │   │   ├── 1.png
-        │   │   ├── 2.png
-        │   │   ├── 3.png
-        │   │   ├── 4.png
-        │   │   ├── 5.png
-        │   │   ├── 6.png
-        │   │   ├── 7.png
-        │   │   ├── 8.png
-        │   │   ├── 9.png
-        │   │   ├── bg-acordion.png
-        │   │   ├── bg-top.png
-        │   │   └── logo.png
-        │   └── js
-        │       └── main.js
-        └── index.html
+        │   ├── js
+        │   │   └── main.js
+        │   └── scss
+        └── views
+            └── index.html
 
 #### IMG
 
