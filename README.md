@@ -16,8 +16,6 @@
 
     // instruction
     command
-    // instruction
-    `command`  
 
 #### Tree structure
 
