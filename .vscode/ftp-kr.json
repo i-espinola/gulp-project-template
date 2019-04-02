@@ -1,0 +1,17 @@
+{
+    "host": "0.0.0.0",
+    "username": "xxx",
+    "password": "xxx",
+    "remotePath": "/httpdocs/",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "node_modules",
+        "/.vscode"
+    ]
+}
