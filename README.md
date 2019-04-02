@@ -1,17 +1,11 @@
 
 # Project init - Readme Model
 
-# Heading 1
+## Project init h2
 
-## Heading 2
+### Project init h3
 
-### Heading 3
-
-#### Heading 4
-
-## Another Heading 2
-
-### Another Heading 3
+#### Project init h4
 
 #### Checklist
 
