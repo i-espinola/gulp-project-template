@@ -3,7 +3,7 @@
 # Boilerplate Gulp
 Template client side with Gulp
 
-# Project init - Readme Model
+
 
 ## Project init h2
 
