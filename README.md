@@ -1,7 +1,7 @@
+![Agência Takeoff](https://agenciatakeoff.com.br/img/logo_mail_tk.png)
+
 # Boilerplate Gulp
 Template client side with Gulp
-
-![Agência Takeoff](https://agenciatakeoff.com.br/img/logo_mail_tk.png)
 
 # Project init - Readme Model
 
